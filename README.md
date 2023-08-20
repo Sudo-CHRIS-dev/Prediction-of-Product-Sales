@@ -47,12 +47,11 @@ https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view?usp=shari
 ## Results
 
 #### Item_MRP vs. Item_Outlet_Sales
-![Item_MRP vs. Item_Outlet_Sales](![Untitled](https://github.com/Sudo-CHRIS-dev/Prediction-of-Product-Sales/assets/122632203/16ddbb49-b0f5-46a8-9c3f-ad5ff00707a0)
-)
+![Item_MRP vs. Item_Outlet_Sales]((https://github.com/Sudo-CHRIS-dev/Prediction-of-Product-Sales/assets/122632203/16ddbb49-b0f5-46a8-9c3f-ad5ff00707a0)
 
 > This graph show us that the higher the max retail price the more sales
 
-#### Visual 2 Title
+#### most popular supermarket
 
 ![OutletTypeAmount](https://github.com/Sudo-CHRIS-dev/Prediction-of-Product-Sales/assets/122632203/5fedfd11-a433-416e-a542-1c5cdbf7f4fc)
 
